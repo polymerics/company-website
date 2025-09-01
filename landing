@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Polymerics AI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Polymerics AI</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="careers.html">Careers</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>AI-First Polymer Discovery</h2>
+    <p>Accelerating the future of materials science through intelligent design.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Polymerics AI</p>
+  </footer>
+</body>
+</html>
